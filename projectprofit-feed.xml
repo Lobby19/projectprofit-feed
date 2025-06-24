@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Project Profit Flash Briefing</title>
+    <item>
+      <title>Profitto di ieri</title>
+      <description>+{{profitto}} $ – Oggi spacchiamo! Nessuno sopra di te.</description>
+      <pubDate>{{pubDate}}</pubDate>
+    </item>
+  </channel>
+</rss>
